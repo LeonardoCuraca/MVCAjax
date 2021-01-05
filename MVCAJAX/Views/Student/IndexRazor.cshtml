@@ -14,8 +14,6 @@
             <tr>
                 <th align="left" class="productth">ID</th>
                 <th align="left" class="productth">Student Name</th>
-                <th align="left" class="productth">Student LastName</th>
-                <th align="left" class="productth">Student Code</th>
                 <th align="left" class="productth">Student Address</th>
                 <th align="left" class="productth">Edit</th>
                 <th align="left" class="productth">Delete</th>
@@ -25,13 +23,11 @@
             @foreach (var item in Model)
             {
                 <tr>
-                    <td align="left" class="productth">@item.ID</td>
-                    <td align="left" class="productth">@item.Name</td>
-                    <td align="left" class="productth">@item.LastName</td>
-                    <td align="left" class="productth">@item.Code</td>
-                    <td align="left" class="productth">@item.Address</td>
-                    <th align="left" class="productth"><a class="nav-link btn edit" unique="@item.ID">Edit</a> </th>
-                    <th align="left" class="productth"><a class="nav-link btn remove" unique="@item.ID">Delete</a></th>
+                    <td align="left" class="productth">@item.studentID</td>
+                    <td align="left" class="productth">@item.studentName</td>
+                    <td align="left" class="productth">@item.studentAddress</td>
+                    <th align="left" class="productth"><a class="nav-link btn edit" unique="@item.studentID">Edit</a> </th>
+                    <th align="left" class="productth"><a class="nav-link btn remove" unique="@item.studentID">Delete</a></th>
                 </tr>
             }
         </tbody>

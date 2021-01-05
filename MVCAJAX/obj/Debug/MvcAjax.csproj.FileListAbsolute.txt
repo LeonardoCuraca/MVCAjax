@@ -148,13 +148,11 @@ C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\roslyn\vbc.rsp
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\roslyn\VBCSCompiler.exe
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Antlr3.Runtime.dll
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Domain.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\EntityFramework.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\EntityFramework.SqlServer.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Newtonsoft.Json.dll
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Service.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.Helpers.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.Mvc.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.Optimization.dll
@@ -163,10 +161,6 @@ C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.WebPages.Deploymen
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.WebPages.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.WebPages.Razor.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\WebGrease.dll
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Infraestructure.dll
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Domain.pdb
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Service.pdb
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Service.dll.config
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\EntityFramework.xml
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\EntityFramework.SqlServer.xml
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.Helpers.xml
@@ -179,8 +173,6 @@ C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\System.Web.WebPages.Razor.xml
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Newtonsoft.Json.xml
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Antlr3.Runtime.pdb
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Infraestructure.pdb
-C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\Infraestructure.dll.config
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\es\System.Web.Helpers.resources.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\es\System.Web.Mvc.resources.dll
 C:\Users\Leonardo\source\repos\MVCAJAX\MvcAjax\bin\es\System.Web.Optimization.resources.dll
